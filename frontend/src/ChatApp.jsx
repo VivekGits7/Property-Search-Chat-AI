@@ -74,7 +74,8 @@ It is unfurnished and currently under construction, featuring 2 bathrooms and 2 
 ________________________________________
 
 2️⃣ Sainath Vrindavan (1BHK)
-NPM
+1BHK residential apartment located at Prataprao Gujar Rd, Neelam Nagar, Mulund East, Mumbai, Maharashtra 400081, near JBCN International School Mulund.
+It is unfurnished and currently under construction, featuring 1 bathroom and 1 balcony, priced at around ₹1.2 crore.
 
 ________________________________________
 

@@ -344,6 +344,7 @@ Being precise ensures the AI can **filter and summarize** your query accurately.
 # Example Prompts
 
 **Om Makarand Heights**
+
 2BHK residential apartment located at 104, Yashvant Seth Jadhav Marg, Gauri Shankar Wadi No. 2,
 Savitribai Phule Nagar, Pant Nagar, Ghatkopar East, Mumbai, Maharashtra 400075, near Hind High
 School.
@@ -351,28 +352,34 @@ It is unfurnished and currently under construction, featuring 2 bathrooms and 2 
 around ₹1.4 crore.
 
 **Sainath Vrindavan (1BHK)**
+
 1BHK residential apartment located at Prataprao Gujar Rd, Neelam Nagar, Mulund East, Mumbai,
 Maharashtra 400081, near JBCN International School Mulund.
 It is unfurnished and currently under construction, featuring 1 bathroom and 1 balcony, priced at
 around ₹1.2 crore.
 
 **Sainath Vrindavan (2BHK)**
+
 2BHK residential apartment located at Prataprao Gujar Rd, Neelam Nagar, Mulund East, Mumbai,
 Maharashtra 400081, near JBCN International School Mulund.
 It is unfurnished and currently under construction, featuring 2 bathrooms and 2 balconies, priced at
 around ₹1.7 crore.
 
 **Sainath Vrindavan (2BHK)**
+
 2BHK residential apartment located at Prataprao Gujar Rd, Neelam Nagar, Mulund East, Mumbai,
 Maharashtra 400081, near JBCN International School Mulund.
 It is unfurnished and currently under construction, featuring 2 bathrooms and 2 balconies, priced at
 around ₹1.9 crore.
 
 **Ashwini Apartments**
+
 Ashwini is a 1BHK residential apartment located in Mumbai Chembur, near Babys School. It is unfurnished and currently under construction, featuring 1 bathroom and 1 balcony, priced at around ₹1.1 crore.
 
 **Sai Krupa Residency**
+
 2BHK residential apartment located in Sr. No. 13, beside Godrej, near Sai Nagar. It is unfurnished and ready to move in, featuring 12 bathrooms and 3 balconies, priced at around ₹12  crore.
+
 
 
 

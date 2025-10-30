@@ -29,16 +29,26 @@ interface to make property discovery faster, smarter, and more interactive.
 # Tech Stack
 
 **Programming Languages:** Java17, JavaScript
+
 **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP),
 Problem Solving.
+
 **Java Frameworks & Libraries:** Spring, Spring Boot, Lombok, commons-csv
+
 **Build & Tools:** Maven, Postman, GSON, JSON, and API Documentation (Swagger)
+
 **Back-End Development:** RESTful APIs and designing with Microservices Architecture.
+
 **Application Servers:** Experience with Embedded Tomcat for Java applications.
+
 **Front-End Frameworks:** Tailwind CSS, React.js.
+
 **Web Technologies:** HTML5, CSS3, JavaScript and YAML.
+
 **Version Control:** Git, GitHub
+
 **IDEs:** IntelliJ IDEA, WebStorm, and Visual Studio Code for development and debugging.
+
 
 # Setup Guide
 
@@ -227,6 +237,7 @@ Each property is shown in a **card format** , containing:
 - Furnishing
 - Status
 - Price
+  
 **5. Expandable “Show Slug” Feature**
 Each property card has a small link at the bottom:
 When clicked, it expands to show the backend’s ctaSlug or a placeholder if not available.
@@ -266,6 +277,7 @@ Quickly resets the UI:
 **10. Smart Scroll**
     - Automatically scrolls to bottom on new messages.
     - Smoothly scrolls to the Notes section when expanded.
+
 
 
 

@@ -1,4 +1,4 @@
-**NoBroDirectAI – Property Finder Chat AI**
+# NoBroDirectAI – Property Finder Chat AI
 
 **LinkedIn:** ` https://www.linkedin.com/in/vivek-vishwakarma-`
 
@@ -278,17 +278,14 @@ Quickly resets the UI:
     - Automatically scrolls to bottom on new messages.
     - Smoothly scrolls to the Notes section when expanded.
 
- PDF To Markdown Converter
-Debug View
-Result View
-**Notes — How to Use This Property Chat AI**
+# Notes — How to Use This Property Chat AI
 
-**Purpose:**
+# Purpose:
 This AI helps you search properties and projects using simple **natural language** — but it’s not a full
 GPT model. It’s a **lightweight AI** trained only on **83 property entries** from a local dataset.
 So, to get the best results, your query must be **specific** , **well-structured** , and **spelled correctly**.
 
-**How to Search Correctly**
+# How to Search Correctly
 
 **Follow this format for best results:**
 
@@ -318,7 +315,7 @@ Avoid vague terms like cheap flat or low price apartment.
 1BHK residential apartment located in Mumbai Chembur, near Babys School. It is unfurnished and
 currently under construction, featuring 1 bathroom and 1 balcony, priced at around ₹1.1 Crore.
 
-**Important Guidelines**
+# Important Guidelines
 
 - Always **mention BHK** at the start.
 - Add **city** and **locality name** (e.g., Mumbai Chembur).
@@ -331,7 +328,7 @@ currently under construction, featuring 1 bathroom and 1 balcony, priced at arou
 - Avoid shorthand, typos, or vague inputs (e.g., “cheap flat Mumbai”).
 - Don’t skip important words like “ready to move”, “under construction”, or “unfurnished”.
 
-#**Why Precision Matters**
+# Why Precision Matters
 
 This AI runs on a **custom model** with **limited parameters** , not billions like normal GPTs.
 It only matches patterns from a **small dataset (83 property entries)** — so every keyword you type
@@ -376,6 +373,7 @@ Ashwini is a 1BHK residential apartment located in Mumbai Chembur, near Babys Sc
 
 **Sai Krupa Residency**
 2BHK residential apartment located in Sr. No. 13, beside Godrej, near Sai Nagar. It is unfurnished and ready to move in, featuring 12 bathrooms and 3 balconies, priced at around ₹12  crore.
+
 
 
 

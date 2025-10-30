@@ -5,11 +5,13 @@ AI</u>**<img src="./Readme_Images/citifty1.png" style="width:7.315in" /><img src
 
 **LinkedIn:**
 **[*<u>https://www.linkedin.com/in/vivek-vishwakarma-</u>*](https://www.linkedin.com/in/vivek-vishwakarma-)**
+
 **Project GitHub:**
 [***<u>https://github.com/VivekGits7/Property-Search-Chat-AI</u>***](https://github.com/VivekGits7/Property-Search-Chat-AI)
 
 **Specific** **Frontend** **code** **GitHub:**
 [***<u>https://github.com/VivekGits7/NoBroDirectAI-FrontEnd</u>***](https://github.com/VivekGits7/NoBroDirectAI-FrontEnd)
+
 **Specific** **Backend** **code** **GitHub:**
 [***<u>https://github.com/VivekGits7/NoBroDirectAI-BackEnd</u>***](https://github.com/VivekGits7/NoBroDirectAI-BackEnd)
 
@@ -404,4 +406,5 @@ Quickly resets the UI:
 > • Automatically scrolls to bottom on new messages.
 >
 > • Smoothly scrolls to the Notes section when expanded.
+
 

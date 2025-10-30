@@ -278,6 +278,116 @@ Quickly resets the UI:
     - Automatically scrolls to bottom on new messages.
     - Smoothly scrolls to the Notes section when expanded.
 
+ PDF To Markdown Converter
+Debug View
+Result View
+**Notes — How to Use This Property Chat AI**
+
+**Purpose:**
+This AI helps you search properties and projects using simple **natural language** — but it’s not a full
+GPT model. It’s a **lightweight AI** trained only on **83 property entries** from a local dataset.
+So, to get the best results, your query must be **specific** , **well-structured** , and **spelled correctly**.
+
+**How to Search Correctly**
+
+**Follow this format for best results:**
+
+BHK PROPERTY_TYPE apartment located in FULLADDRESS, near LANDMARK.
+It is FURNISHED_TYPE and currently STATUS, featuring NU BATHROOMS and NU BALCONIES,
+priced at around **₹** NU Crore/Lakh/K etc.
+
+Field Details
+
+BHK → 1, 2, 3, 4
+PROPERTY_TYPE → Residential, Commercial, Any
+FULLADDRESS → Example: Sindhi Society, Near Swami Vivekanand Jr College, Chembur, Mumbai
+Harbour, Mumbai
+LANDMARK → Example: JBCN International School Mulund
+FURNISHED_TYPE → Unfurnished, Furnished, Semi-Furnished, None
+STATUS → Ready to Move, Under Construction
+BATHROOMS → 1, 2, 3, 4
+BALCONIES → 1, 2, 3, 4
+PRICE → ₹NU Crore / Lakh / K
+
+Tip:
+Use clear and complete details for address, landmark, and price.
+Avoid vague terms like cheap flat or low price apartment.
+
+**Example of a perfect search:**
+
+1BHK residential apartment located in Mumbai Chembur, near Babys School. It is unfurnished and
+currently under construction, featuring 1 bathroom and 1 balcony, priced at around ₹1.1 Crore.
+
+**Important Guidelines**
+
+- Always **mention BHK** at the start.
+- Add **city** and **locality name** (e.g., Mumbai Chembur).
+- Include **bathroom** and **balcony** count.
+- Write the **price at the end** in clear format (₹1.1 Crore / ₹85 Lakh / ₹90L).
+
+
+- Use full sentences and correct spelling — the AI is **regex-based** , not semantic like
+    ChatGPT.
+- Avoid shorthand, typos, or vague inputs (e.g., “cheap flat Mumbai”).
+- Don’t skip important words like “ready to move”, “under construction”, or “unfurnished”.
+
+**Why Precision Matters**
+
+This AI runs on a **custom model** with **limited parameters** , not billions like normal GPTs.
+It only matches patterns from a **small dataset (83 property entries)** — so every keyword you type
+helps it understand:
+
+- The **location**
+- The **price range**
+- The **BHK type**
+- The **furnishing and readiness status**
+
+Being precise ensures the AI can **filter and summarize** your query accurately.
+
+Example Prompts
+
+**Om Makarand Heights**
+
+2BHK residential apartment located at 104, Yashvant Seth Jadhav Marg, Gauri Shankar Wadi No. 2,
+Savitribai Phule Nagar, Pant Nagar, Ghatkopar East, Mumbai, Maharashtra 400075, near Hind High
+School.
+It is unfurnished and currently under construction, featuring 2 bathrooms and 2 balconies, priced at
+around ₹1.4 crore.
+
+**Sainath Vrindavan (1BHK)**
+
+1BHK residential apartment located at Prataprao Gujar Rd, Neelam Nagar, Mulund East, Mumbai,
+Maharashtra 400081, near JBCN International School Mulund.
+It is unfurnished and currently under construction, featuring 1 bathroom and 1 balcony, priced at
+around ₹1.2 crore.
+
+**Sainath Vrindavan (2BHK)**
+
+2BHK residential apartment located at Prataprao Gujar Rd, Neelam Nagar, Mulund East, Mumbai,
+Maharashtra 400081, near JBCN International School Mulund.
+It is unfurnished and currently under construction, featuring 2 bathrooms and 2 balconies, priced at
+around ₹1.7 crore.
+
+**Sainath Vrindavan (2BHK)**
+
+2BHK residential apartment located at Prataprao Gujar Rd, Neelam Nagar, Mulund East, Mumbai,
+Maharashtra 400081, near JBCN International School Mulund.
+It is unfurnished and currently under construction, featuring 2 bathrooms and 2 balconies, priced at
+around ₹1.9 crore.
+
+**Ashwini Apartments**
+
+Ashwini is a 1BHK residential apartment located in Mumbai Chembur, near Babys School. It is unfurnished and currently under construction, featuring 1 bathroom and 1 balcony, priced at around ₹1.1 crore.
+
+**Sai Krupa Residency**
+
+2BHK residential apartment located in Sr. No. 13, beside Godrej, near Sai Nagar. It is unfurnished and ready to move in, featuring 12 bathrooms and 3 balconies, priced at around ₹12  crore.
+
+
+
+
+This is a offline tool, your data stays locally and is not send to any server!
+Feedback & Bug Reports
 
 
 

@@ -1,9 +1,9 @@
 **NoBroDirectAI – Property Finder Chat AI**
 
-**LinkedIn:** **_https://www.linkedin.com/in/vivek-vishwakarma-_**
-**Project GitHub:** **_https://github.com/VivekGits7/Property-Search-Chat-AI_**
-**Specific Frontend code GitHub:** **_https://github.com/VivekGits7/NoBroDirectAI-FrontEnd_**
-**Specific Backend code GitHub:** **_https://github.com/VivekGits7/NoBroDirectAI-BackEnd_**
+**LinkedIn:** ` https://www.linkedin.com/in/vivek-vishwakarma-`
+**Project GitHub:** `https://github.com/VivekGits7/Property-Search-Chat-AI`
+**Specific Frontend code GitHub:** `https://github.com/VivekGits7/NoBroDirectAI-FrontEnd`
+**Specific Backend code GitHub:** `https://github.com/VivekGits7/NoBroDirectAI-BackEnd`
 
 # Project Summary:
 
@@ -41,19 +41,19 @@ Problem Solving.
 
 **1. Clone the Repo
 Open a terminal in VS Code or WebStorm and run:**
-**_git clone https://github.com/VivekGits7/NoBroDirectAI-FrontEnd.git_**
+`git clone https://github.com/VivekGits7/NoBroDirectAI-FrontEnd.git`
 
 
-**Then go inside the project folder:** **_cd NoBroDirectAI-FrontEnd_**
+**Then go inside the project folder:`cd NoBroDirectAI-FrontEnd`
 
 **2. Install Dependencies
 Since node_modules is not in your repo, install them fresh using npm:**
-**_npm install_**
+`npm install`
 **This reads the package.json file and downloads all required libraries (React, Vite,
 Tailwind, Framer Motion, etc.) into a new node_modules folder.**
 
 **3. Run the Development Server
-Start the app with:** **_npm run dev_**
+Start the app with: `npm run dev`
 
 **After a few seconds, you’ll see an output like:**
 _VITE v5.0.0 ready in 400ms_
@@ -67,12 +67,12 @@ _VITE v5.0.0 ready in 400ms_
 **1. Clone the Repo**
 Open a terminal in **IntelliJ IDEA** or **Eclipse IDE** and run:
 In the **IntelliJ IDEA** Project Section, click the Clone Repository button and give the
-**Backend code repo URL:** **_https://github.com/VivekGits7/NoBroDirectAI-BackEnd_**
-Then go inside the project folder: **_cd NoBroDirectAI-BackEnd_**
+**Backend code repo URL: `https://github.com/VivekGits7/NoBroDirectAI-BackEnd`
+Then go inside the project folder: `cd NoBroDirectAI-BackEnd`
 
 **2. Check Maven Dependencies**
 If not automatically downloaded, you can manually install them:
-**_mvn clean install_**
+`mvn clean install`
 This will:
 
 - Download all dependencies from pom.xml
@@ -81,13 +81,13 @@ This will:
 
 **3. Run the Spring Boot Application**
 Run this command inside the project root:
-**_mvn spring-boot: run_**
+`mvn spring-boot: run`
 
 **Backend is running on:**
-**_[http://localhost:](http://localhost:)_**
+`http://localhost:8083/api/search`
 **Or Run the JAR File
 Run your Spring Boot backend:**
-**_java -jar NoBroDirectAI-BackEnd.jar_**
+`java -jar NoBroDirectAI-BackEnd.jar`
 
 
 **4. Verify API Endpoint**
@@ -95,7 +95,7 @@ Test your main API using Postman or Curl:
 
 POST _[http://localhost:8083/api/search](http://localhost:8083/api/search)_
 Content-Type: application/json
-{
+```{
 "query": "1BHK residential apartment located at Prataprao Gujar Rd, Neelam Nagar, Mulund East, Mumbai,
 Maharashtra 400081, near JBCN International School Mulund.
 It is unfurnished and currently under construction, featuring 1 bathroom and 1 balcony, priced at around ₹1.
@@ -103,10 +103,10 @@ crore.
 
 "
 }
-
+```
 **5. Folder Structure Overview**
 NoBroDiractAI-BackEnd/
-Root contains:
+```Root contains:
     - src/
        o main/
           ▪ java/com/NoBrokerage/NoBroDirectAI/
@@ -120,16 +120,18 @@ Root contains:
        o test/ → Unit tests
     - pom.xml → Maven dependencies
     - README.md → Project info
+```
 **6. Change Port or Config (Optional)**
 If port 8083 is busy, change it in:
 src/main/resources/application.properties
 server.port=
+
 **7. Connect Frontend + Backend**
 Once the backend is running:
     - Make sure your frontend’s .env file has:
     - VITE_API_URL=http://localhost:
     - Then start your frontend:
-    - npm run dev
+    - `npm run dev`
     - The React chat UI will call your backend endpoint at
        [http://localhost:8083/api/search](http://localhost:8083/api/search)
 
@@ -140,13 +142,11 @@ Once the backend is running:
 
 ```
 URL: POST localhost:8083/api/search
+```
 Description: Accepts a search query and returns matching property/project listings
 from the CSV data store.
 ```
-```
-Notes: The summary is derived only from the CSV datasets (no external data). The
-project's array lists matched items with key details. If no matches are found, it returns
-a message summarising the absence and may propose broader filters.
+Notes: The summary is derived only from the CSV datasets (no external data). The project's array lists matched items with key details. If no matches are found, it returns a message summarising the absence and may propose broader filters.
 ```
 **2. (Potential) Other Endpoints**
 Based on the project’s architecture (controller/service layers) you may have or add these

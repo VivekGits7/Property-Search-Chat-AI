@@ -1,8 +1,11 @@
 **NoBroDirectAI – Property Finder Chat AI**
 
 **LinkedIn:** ` https://www.linkedin.com/in/vivek-vishwakarma-`
+
 **Project GitHub:** `https://github.com/VivekGits7/Property-Search-Chat-AI`
+
 **Specific Frontend code GitHub:** `https://github.com/VivekGits7/NoBroDirectAI-FrontEnd`
+
 **Specific Backend code GitHub:** `https://github.com/VivekGits7/NoBroDirectAI-BackEnd`
 
 # Project Summary:
@@ -10,11 +13,13 @@
 This project aims to build an intelligent **Chat Search AI system** that helps users find real
 estate projects through natural language queries like “3BHK flat in Pune under ₹1.2 Cr.”
 
+
 Instead of using filters, users can chat with the interface—built using React + Tailwind CSS
 —to get instant, data-driven property recommendations. The backend (powered by Java
 Spring Boot ) processes user messages, extracts key filters such as city, BHK type, budget,
 and locality, and searches through the provided CSV datasets containing project, address,
 and configuration details.
+
 
 It then generates a short, meaningful summary based solely on CSV data and displays a
 list of matching project cards with details like price, location, status, and BHK. This system
@@ -261,5 +266,6 @@ Quickly resets the UI:
 **10. Smart Scroll**
     - Automatically scrolls to bottom on new messages.
     - Smoothly scrolls to the Notes section when expanded.
+
 
 

@@ -1,6 +1,8 @@
-# NoBroDirectAI – Property Finder Chat AI
+# NoBroDirectAI – Property Finder Chat AI 
 
 **LinkedIn:** ` https://www.linkedin.com/in/vivek-vishwakarma-`
+
+**Live demo Vedio link:** `https://youtu.be/28mfLQfyfPs`
 
 **Project GitHub:** `https://github.com/VivekGits7/Property-Search-Chat-AI`
 
@@ -379,6 +381,7 @@ Ashwini is a 1BHK residential apartment located in Mumbai Chembur, near Babys Sc
 **Sai Krupa Residency**
 
 2BHK residential apartment located in Sr. No. 13, beside Godrej, near Sai Nagar. It is unfurnished and ready to move in, featuring 12 bathrooms and 3 balconies, priced at around ₹12  crore.
+
 
 
 

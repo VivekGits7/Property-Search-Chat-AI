@@ -76,7 +76,21 @@ development and debugging.
 ***git*** ***clone***
 [***<u>https://github.com/VivekGits7/NoBroDirectAI-FrontEnd.git</u>***](https://github.com/VivekGits7/NoBroDirectAI-FrontEnd.git)
 
-**Then** **go** **inside** **the** **project** **folder:** ***cd***
+Then go inside the project folder: cd NoBroDirectAI-FrontEnd 
+�
+� 2. Install Dependencies 
+Since node_modules is not in your repo, install them fresh using npm: 
+npm install 
+�
+� This reads the package.json file and downloads all required libraries (React, Vite, 
+Tailwind, Framer Motion, etc.) into a new node_modules folder. 
+�
+� 3. Run the Development Server 
+Start the app with:  npm run dev 
+After a few seconds, you’ll see an output like: 
+VITE v5.0.0  ready in 400ms 
+➜  Local:   http://localhost:5173/ 
+
 ***NoBroDirectAI-FrontEnd***<img src="./Readme_Images/jeuio3ab.png"
 style="width:7.08681in;height:2.32708in" /><img src="./Readme_Images/jt04ooib.png" style="width:7.31417in" />
 
@@ -406,5 +420,6 @@ Quickly resets the UI:
 > • Automatically scrolls to bottom on new messages.
 >
 > • Smoothly scrolls to the Notes section when expanded.
+
 
 
